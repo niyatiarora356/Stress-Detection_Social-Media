@@ -154,11 +154,11 @@ streamlit run app.py
 
 ## Author
 
-Niyati Arora
-Second Year B.Tech Student
-School of Computer Engineering, KIIT DU
-Bhubaneswar, Odisha
-[24051718@kiit.ac.in](mailto:24051718@kiit.ac.in)
+Niyati Arora  
+Second Year B.Tech Student  
+School of Computer Engineering, KIIT DU  
+Bhubaneswar, Odisha  
+24051718@kiit.ac.in  
 
 ---
 
